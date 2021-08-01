@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# Hotel-Management-System
 
-You can use the [editor on GitHub](https://github.com/j019/Hotel-Management-System/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The main purpose of this project is to maintain an easy circulation system between clients and the
+hotels, to book hotel rooms using a web platform, also to search rooms from different available
+hotels and to maintain details about the user (name, address, phone number). Moreover, the user
+can check all these features from their home.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Software Requirement
 
-### Markdown
+### Front end:
+#### * VS Code
+#### * Advance
+#### * ASP.NET
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Back end:
+#### * MySQL
 
-```markdown
-Syntax highlighted code block
+## Functionalities:
+### Home Screen :
+    User can check the availability of hotel room from this screen
+    
+![image](https://user-images.githubusercontent.com/46466390/127776978-2dcff62e-6334-475d-9c5d-24983af7e82f.png)
 
-# Header 1
-## Header 2
-### Header 3
+### Room Detail Screen :
+    User can check the details of a hotel room from this screen
+    
+   ![image](https://user-images.githubusercontent.com/46466390/127776897-202d8629-790d-4857-ba1a-9ae47e0fb850.png)
+ 
+ ### Add Room Screen :
+     Admin can add rooms from this screen
+ 
+ ![image](https://user-images.githubusercontent.com/46466390/127777070-25e8e4c9-2a85-4cee-b60e-cd2f54b205ff.png)
 
-- Bulleted
-- List
+### About Screen :
+    User can check the details of a hotel from this screen
 
-1. Numbered
-2. List
+![image](https://user-images.githubusercontent.com/46466390/127777122-ca767120-ee0d-4c67-95a7-773a26c50ed5.png)
 
-**Bold** and _Italic_ and `Code` text
+### Contact Screen :
+    User can contact the hotel in case of any query from this screen
+    
+![image](https://user-images.githubusercontent.com/46466390/127777156-73d4bd8a-d657-4f19-8ec3-d929c260a8c2.png)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/j019/Hotel-Management-System/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
