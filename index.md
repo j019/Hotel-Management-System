@@ -9,8 +9,8 @@ can check all these features from their home.
 
 ### Front end:
 #### * VS Code
-#### * Advance
-#### * ASP.NET
+#### * HTML , JS , CSS
+#### * ASP.NET , C#
 
 ### Back end:
 #### * MySQL
@@ -25,11 +25,6 @@ can check all these features from their home.
     User can check the details of a hotel room from this screen
     
    ![image](https://user-images.githubusercontent.com/46466390/127776897-202d8629-790d-4857-ba1a-9ae47e0fb850.png)
- 
- ### Add Room Screen :
-     Admin can add rooms from this screen
- 
- ![image](https://user-images.githubusercontent.com/46466390/127777070-25e8e4c9-2a85-4cee-b60e-cd2f54b205ff.png)
 
 ### About Screen :
     User can check the details of a hotel from this screen
