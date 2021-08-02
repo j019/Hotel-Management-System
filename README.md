@@ -9,8 +9,8 @@ can check all these features from their home.
 
 ### Front end:
 #### * VS Code
-#### * HTML , JS
-#### * ASP.NET
+#### * HTML , JS , CSS
+#### * ASP.NET , C#
 
 ### Back end:
 #### * MySQL
