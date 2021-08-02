@@ -9,7 +9,7 @@ can check all these features from their home.
 
 ### Front end:
 #### * VS Code
-#### * Advance
+#### * HTML , JS
 #### * ASP.NET
 
 ### Back end:
